@@ -1,6 +1,4 @@
-// Identificação dos participantes
-// Projeto: Pizzaria Itabirana
-// Participantes: Nome do Participante 1, Nome do Participante 2
+//Gabriel Souza Santos
 
 const express = require("express");
 const { Client } = require('pg');
